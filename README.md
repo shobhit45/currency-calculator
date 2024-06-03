@@ -1,10 +1,18 @@
-# currency-calculator
-using currency calculator you can calculate value from anyone currency to any other currency of the world , visit the link given of the site and get the value of your currency https://currency-calculator-green.vercel.app/
-# React + Vite
+## Currency Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Using the currency calculator, you can calculate the value from any one currency to any other currency of the world.
+- Visit the link given below to get the value of your currency:
 
-Currently, two official plugins are available:
+- Currency Calculator
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Features
+
+- Real-time Conversion: Convert between most global currencies using live exchange rates.
+- Custom Exchange Rates: Option to use custom exchange rates.
+- Responsive Design: Optimized for both desktop and mobile devices.
+# Technologies Used
+
+- React JS
+- Tailwind CSS
+- Vite
+- API
