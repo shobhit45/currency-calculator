@@ -2,8 +2,9 @@
 
 - Using the currency calculator, you can calculate the value from any one currency to any other currency of the world.
 - Visit the link given below to get the value of your currency:
+-  https://currency-calculator-green.vercel.app/
 
-- Currency Calculator
+
 
 # Features
 
