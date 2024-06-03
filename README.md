@@ -1,5 +1,5 @@
 # currency-calculator
-using currency calculator you can calculate value from anyone currency to any other currency of the world 
+using currency calculator you can calculate value from anyone currency to any other currency of the world , visit the link given of the site and get the value of your currency https://currency-calculator-green.vercel.app/
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
