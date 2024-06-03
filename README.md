@@ -9,8 +9,8 @@
 # Features
 
 - Real-time Conversion: Convert between most global currencies using live exchange rates.
-- Custom Exchange Rates: Option to use custom exchange rates.
 - Responsive Design: Optimized for both desktop and mobile devices.
+   
 # Technologies Used
 
 - React JS
